@@ -1,0 +1,17 @@
+[project]
+name = "test0IhorSemykopenko"
+version = "1.0.0"
+authors = [
+  { name="Ihor Semykopenko", email="aufrutten@gmail.com" },
+]
+description = "package example, test"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"gitLab" = "https://git.foxminded.com.ua/aufrutten/Task_5_Create_the_python_package"

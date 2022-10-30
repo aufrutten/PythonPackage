@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/Task_5_Semykopenko_Ihor/__init__.py
+src/Task_5_Semykopenko_Ihor/collect_framework.py
+src/Task_5_Semykopenko_Ihor/tests/__init__.py
+src/Task_5_Semykopenko_Ihor/tests/conftest.py
+src/Task_5_Semykopenko_Ihor/tests/test_collect_framework.py
+src/test0IhorSemykopenko.egg-info/PKG-INFO
+src/test0IhorSemykopenko.egg-info/SOURCES.txt
+src/test0IhorSemykopenko.egg-info/dependency_links.txt
+src/test0IhorSemykopenko.egg-info/top_level.txt

@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: test0IhorSemykopenko
+Version: 1.0.0
+Summary: package example, test
+Author-email: Ihor Semykopenko <aufrutten@gmail.com>
+Project-URL: gitLab, https://git.foxminded.com.ua/aufrutten/Task_5_Create_the_python_package
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Task_5_Semykopenko_Ihor
+
+### <b>this package gives one function</b>
+
+from an imported module, the function called is called "counting_unique_characters".
+
+the function return number unique characters of string
+
+exp: counting_unique_characters("abbcd") -> 3
+
+
+### <b>if we call function from terminal</b>
+
+called object is 'collect_framework.py' ask arguments of line
+--string or --file
+like: <p>python3 collect_framework.py --string 'Hello world'</p>
+
+<p>or</p>
+<p>python3 collect_framework.py --file text.txt</p>
+the function have priority: 1) file 2) string. if you didn't write anything. function will call exception
